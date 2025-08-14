@@ -418,7 +418,7 @@ export default function Home() {
             <Activity className="h-5 w-5 text-green-400 animate-pulse" />
           </motion.div>
           <p className="text-gray-400 text-sm">
-            (c) 2025 Roman Afonin. Built with Next.js, TypeScript, and positive vibes.
+            Built with Next.js, TypeScript, and positive vibes.
           </p>
         </div>
       </footer>
