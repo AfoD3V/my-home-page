@@ -20,7 +20,7 @@ export default function Home() {
     "whoami",
     "Roman Afonin",
     "cat /skills/ml-engineering",
-    "TensorFlow | PyTorch | MLOps | Kubernetes",
+    "TensorFlow | PyTorch | MLOps | Model Ser",
     "cat /skills/ai-engineering", 
     "LLMs | Computer Vision | NLP | AutoML",
     "cat /skills/data-engineering",
@@ -152,7 +152,7 @@ export default function Home() {
             className="flex items-center gap-2 text-green-400"
           >
             <Terminal className="h-6 w-6 animate-pulse" />
-            <span className="font-mono text-sm">root@cyberpunk:~#</span>
+            <span className="font-mono text-sm">root@afod3v:~#</span>
           </motion.div>
           <motion.div
             initial={{ opacity: 0, x: 20 }}
